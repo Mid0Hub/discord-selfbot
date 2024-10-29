@@ -37,7 +37,7 @@ client.on("messageCreate", async (message) => {
     👤 -profile       -  Customize and manage your profile settings
     
     >------------------------------------<
-    🌟 Selfbot crafted by \`@hydra_devx\`
+    🌟 Selfbot crafted by \`@hydradevx\`
     >------------------------------------<
             `;
     
@@ -67,7 +67,7 @@ client.on("messageCreate", async (message) => {
         🌟 For more tools, use: \`-discordtools 2\`
     
         >------------------------------------<
-        ✨ Selfbot crafted by \`@hydra_devx\`
+        ✨ Selfbot crafted by \`@hydradevx\`
         >------------------------------------<
         `;
     
@@ -96,7 +96,7 @@ client.on("messageCreate", async (message) => {
 🌟 For more raid commands, use: \`-raids 2\`
     
 >------------------------------------<
-✨ Selfbot crafted by \`@hydra_devx\`
+✨ Selfbot crafted by \`@hydradevx\`
 >------------------------------------<
         `;
     
@@ -122,7 +122,7 @@ client.on("messageCreate", async (message) => {
 🌟 For more utility commands, use: \`-tools 2\`
 
 >------------------------------------<
-✨ Selfbot crafted by \`@hydra_devx\`
+✨ Selfbot crafted by \`@hydradevx\`
 >------------------------------------<
                 `;
 
@@ -150,7 +150,7 @@ client.on("messageCreate", async (message) => {
 🌟 For more profile commands, use: \`-profile 2\`
             
 >------------------------------------<
-✨ Selfbot crafted by \`@hydra_devx\`
+✨ Selfbot crafted by \`@hydradevx\`
 >------------------------------------<
                     `;
             
@@ -173,7 +173,7 @@ client.on("messageCreate", async (message) => {
 🌟 For more profile commands, use: \`-profile 3\`
 
 >------------------------------------<
-✨ Selfbot crafted by \`@hydra_devx\`
+✨ Selfbot crafted by \`@hydradevx\`
 >------------------------------------<
 
                 `;
@@ -197,7 +197,7 @@ client.on("messageCreate", async (message) => {
             
             >------------------------------------<
             
-            ✨ Selfbot crafted by \`@hydra_devx\`
+            ✨ Selfbot crafted by \`@hydradevx\`
             >------------------------------------<`;
             
                     await message.channel.send(infoMessage);
@@ -227,7 +227,7 @@ client.on("messageCreate", async (message) => {
             🌟 Use these commands responsibly. Always double-check before proceeding!
             
             >------------------------------------<
-            ✨ Selfbot crafted by \`@hydra_devx\`
+            ✨ Selfbot crafted by \`@hydradevx\`
             >------------------------------------<
                 `;
             
